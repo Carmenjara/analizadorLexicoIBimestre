@@ -1,0 +1,997 @@
+ELF          >                    X‚          @     @ © ¦    ?      A      C      E      G      I      K      M      O      Q      S      U      W      Y      [      ]      _      a      c      e      g      i      k      m      o      q      s      u      w      y      {      }                  ƒ      …      ‡      ‰      ‹                  ‘      “      •      —      ™      ›         UH‰åHƒì HÇEğ    ¾    ¿    è    H‰EøHƒ}ø u¿    è    é  H‹EøH‰Çè    ‰EèÇEì    éô  ƒ}ì‡v  ‹EìH‹Å    ÿà‹Eèƒè0ƒø	w	ÇEì   ëd‹Eè‰Çè    …Àt	ÇEì   ëMHEèH‰Ç¸    è    ƒøu	ÇEì	   ë.HEèH‰Ç¸    è    ƒøu	ÇEì
+   ë¿    è    é   éû  ‹Eèƒè0ƒø	w	ÇEì   ë[‹Eèƒø,u	ÇEì   ëJHEèH‰Ç¸    è    ƒøtHEèH‰Ç¸    è    …Àt	ÇEì   ë¿    è    ÇEìÿÿÿÿéŒ  é‡  ‹Eèƒè0ƒø	wÇEì   ép  ¿    è    éa  ‹Eèƒè0ƒø	w	ÇEì   ë2HEèH‰Ç¸    è    …Àt	ÇEì   ë¿    ¸    è    é  é  ‹Eè‰Çè    …Àt	ÇEì   ër‹Eèƒø_u	ÇEì   ëa‹Eèƒè0ƒø	w	ÇEì   ëMHEèH‰Ç¸    è    ƒøu	ÇEì   ë.HEèH‰Ç¸    è    ƒøu	ÇEì   ë¿    è    é   éˆ   ‹Eè‰Çè    …Àt	ÇEì   ë ‹Eèƒè0ƒø	w	ÇEì   ë¿    è    ëQëO‹Eèƒè0ƒø	w	ÇEì   ë*HEèH‰Ç¸    è    …Àt	ÇEì   ë¿    è    ëë¿    ¸    è    ƒ}ìtƒ}ìtƒ}ì	t
+ƒ}ì
+…#  ƒ}ì…”   ‹    ƒÀ‰    ‹    H‹Uğ‰Æ¿    ¸    è    HEèH‰Ç¸    è    ƒøu+‹    ƒÀ‰    ‹Uè‹    ‰Æ¿    ¸    è    ë)‹    ƒÀ‰    ‹Uè‹    ‰Æ¿    ¸    è    ƒ}ì…ô   H‹EğH‰Ç¸    è    ƒøu,‹    ƒÀ‰    ‹    H‹Uğ‰Æ¿    ¸    è    ë*‹    ƒÀ‰    ‹    H‹Uğ‰Æ¿    ¸    è    HEèH‰Ç¸    è    ƒøu+‹    ƒÀ‰    ‹Uè‹    ‰Æ¿    ¸    è    ëGHEèH‰Ç¸    è    ƒøu1‹Eèƒø t)‹    ƒÀ‰    ‹Uè‹    ‰Æ¿    ¸    è    ƒ}ì	uA‹Eèƒø
+t9‹Eèƒø t1‹Eèƒø	t)‹    ƒÀ‰    ‹Uè‹    ‰Æ¿    ¸    è    ƒ}ì
+u)‹    ƒÀ‰    ‹Uè‹    ‰Æ¿    ¸    è    HÇEğ    ÇEì    ëHUèH‹EğH‰ÖH‰Çè    H‰EğH‹EøH‰Çè    ‰Eè‹Eèƒøÿ… ûÿÿH‹EøH‰Çè    ¸    ÉÃUH‰åHƒì H‰}èÇEø    ‹Eø‰Eü‹Eü‰EôÇEü   ÇEô    ë+‹EôH˜H‹Å    H‹UèH‰ÖH‰Çè    …Àu¸   ëƒEô‹Eô;Eü|Í¸    ÉÃUH‰åHƒì H‰}èÇEø    ‹Eø‰Eü‹Eü‰EôÇEü   ÇEô    ë+‹EôH˜H‹Å    H‹UèH‰ÖH‰Çè    …Àu¸   ëƒEô‹Eô;Eü|Í¸    ÉÃUH‰åHƒì H‰}èÇEø    ‹Eø‰Eü‹Eü‰EôÇEü   ÇEô    ë+‹EôH˜H‹Å    H‹UèH‰ÖH‰Çè    …Àu¸   ëƒEô‹Eô;Eü|Í¸    ÉÃUH‰åSHƒì(H‰}ØH‰uĞH‹EØH‰Çè    H‰ÃH‹EĞH‰Çè    HØHƒÀH‰Çè    H‰EèH‹UØH‹EèH‰ÖH‰Çè    H‹UĞH‹EèH‰ÖH‰Çè    H‹EèHƒÄ([]Ã                                                                                                                                                                                                                                                                              if else while do print for return int string double and or not   { } ( ) ; 
+ 	 + - * / % < > =  r codigo.txt    
+Error de apertura del archivo. 
+ Error Case 0 Error Case 1 Error Case 2 Error case 3 Error Case 5 Error Case 6 Error Case 7 ERROR %d) %s Numero
+ %d) %c Operador
+ %d) %c Separador
+ %d) %s Palabra Reservada
+ %d) %s Identificador
+                                                                    ¤                                             Ô<                           int         ƒm       „m       ™           0«       Øõ+      öf        û“       ü“       ı“       ş“        ÿ“   (	     “   0	    “   8	    “   @	    “   H	    “   P	    “   X	    c  `	    
+i  h	    f   p	    f   t	    t   x	    J   €	    X   ‚	    o  ƒ	      ˆ	    %   	    .‘   ˜	    /‘    	    0‘   ¨	    1‘   °	    21   ¸	    4f   À	    6…  Ä 
+    š     c      ¡c       ¢i      ¦f    2  «   ™     Š     +  ™   •  Š                f           g      œÛ      Û  ‘h    f   ‘X    “   ‘`                  f   ‘\        x      c       f   3        f   D       &f   U       (f             ”       †      (f             ô           ”f   ¨       (f   ¹           G           &f                ¿f           i       œ9      ¿“   ‘Xi Àf   ‘d    Àf   ‘l    Àf   ‘h     Íf           i       œ‘      Í“   ‘Xi Îf   ‘d    Îf   ‘l    Îf   ‘h     Üf           i       œé      Ü“   ‘Xi İf   ‘d    İf   ‘l    İf   ‘h     ë“           p       œ3  s1 ë“   ‘Hs2 ë“   ‘@    í“   ‘X “   C  Š        3  	        “   h  Š        X  	            X  	            f   	         %™B   :;I  $ >  $ >      I  :;   :;I8  	 :;I8  
+ :;  I  ! I/  .?:;I@–B  4 :;I      .?:;I<     .?:;I<  .?:;'I@–B   :;I  4 :;I   :;I  4 :;I?   ,                                                                  ö	    
+        
+        !    #    
+        y    À        J                            1            ¤        Õ         %    )    *    @    $        <    
+        #                    º    „    ‘    ’        Û    
+        !        +    ,    -        Ş         !    
+        Ï    ì"            å    »#Æ    	$         £%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                )    1    6    9           e    f    g    h    i    j    k    l    m    n    o    p    q    r    s    t    u    v    w    x    y    z    {    |    }    ~    ƒ        ¹    º    »    ¼    ½    ¾    á    ã    ä    å    æ    ø    ü    €    „    ˆ    ‰    Š    ‹    Œ        ‘    ’    ¼    À    Ä    È    Û    è    é    í    î    ğ           "__P #    *    +    7    8    9    R    S    X    Y    \    ]    e    f    z    {    |    }    ~        „    …    †    ‰    ‹    Œ    —    ²    ¹    »    ¾    ¿    Ô    Ü    æ    í    ö    ÷    ÿ    ‹    •        ¦    ¯    ´    ¼    Ç    È    Ö    ×    ë    ú    û           
+           —    ˜    ™    š    ›               
+                                                                       ¸    ¹    º    »    ¼    ½    ¾    ¿    À    Á    Â    Ã    Ä    Å    Æ    Ç    Î    ê        ’    ˜       Y    Z    [    \    ]    ^    l    m    n    o    p    q    r    s    u           "    #    &    '    (    )    *    +    -    .    3    4    5    6    7    8    9    :    ;    <    =    >    ?    @    A    B    C    D    E    F    G    H    I    O    R    V       $    %    8    :    B    D    H           
+           ê        ’    ˜       P    `    ƒ    „       .    0    1    3    6    8       !    "    #    $    %    &    '    (    )    *    +    ,    -    0       "    '       3    4    ;    >    M    N    O    P    Q    R    S    T    \    ]    ^    _    `    a    b    c    d    e    f    g    h    i    j    k    l    m    n    p    q    u    }    ~        €        ‚    ƒ    „    …    †    ‡    ˆ    ‰    Š    ‹    Œ        ÷    ”    Ä    Å    Æ        •    ˜    œ    ¯    °    º    È    É    Ê    Ë    Ì    Í       P    ^    g    x    y    z        Œ            —                       $    %       ¬    ­    ®    Ÿ    É                      ê    ‡    ˆ    ‰    Š    ‹    Œ                    ‘    ’    “    ”    •    ¢    ×        ’    ˜                                "    $    %    *    .    /    0               "    %    (    ,    1    5    8    9    :    ;                    !       )    -    .    /    0    4       &    a       ?    @    A    B    D    E    F    G    I    J    K    L       c    d    e    f    g       2    H    T    U    V    W    X    Y    [    n    z    €    …    †    Š           (    4    =    B    G    L    Q    c    i    u    {            ‚    ƒ       5    B    E    R    V    ^    b    j           ê    ˜       »    ½    Á    Ó           !    :    <    >                  $    )    *       B    R    ^    j    r               c       1    9    ;    <    =    I    N    U    Z    [    \    ]           =    >    ?       å    ì    ğ    ô                                        !    F    k    l    ¿                      #                    ˜   œ  û      .. /usr/lib/gcc/x86_64-linux-gnu/4.8/include /usr/include/x86_64-linux-gnu/bits /usr/include /usr/include/x86_64-linux-gnu/sys /usr/include/x86_64-linux-gnu/gnu  main.c   stddef.h   types.h   stdio.h   libio.h   <built-in>    stdc-predef.h   features.h   cdefs.h   wordsize.h   stubs.h   stubs-64.h   typesizes.h   _G_config.h   wchar.h   stdarg.h   stdio_lim.h   sys_errlist.h   stdlib.h   waitflags.h   waitstatus.h   endian.h   endian.h   byteswap.h   byteswap-16.h   types.h   time.h   select.h   select.h   sigset.h   time.h   sysmacros.h   pthreadtypes.h   alloca.h   stdlib-float.h   string.h   xlocale.h     	        …„0uæåuZh­‘×‘Y‘Y’ ¡­’ƒ’ XK’Ÿy ­xV [­’K’ç¡×’ƒ’­’Y’Y’¤ ×’­’¡M­’K’¡Mç fYŸåŸYå®å“ŸYå¼å¡Yå® Xƒå• fuå“gå“ƒ“h ç~äœº»Y1¼/v‘år J‡Y1¼/v’åq JˆY1¼/v’åq JˆY2.//K _IOFBF 0 __linux__ 1 __STD_TYPE typedef __fsfilcnt_t_defined  _IOS_NOREPLACE 64 __DEC128_EPSILON__ 1E-33DL _IOS_TRUNC 16 _G_BUFSIZ 8192 __UINT32_TYPE__ unsigned int __GCC_ATOMIC_WCHAR_T_LOCK_FREE 2 size_t __ino_t_defined  sizetype __LONG_LONG_MAX__ 9223372036854775807LL L_tmpnam 20 __need_malloc_and_calloc __DEC128_MAX__ 9.999999999999999999999999999999999E6144DL makedev(maj,min) gnu_dev_makedev (maj, min) __LP64__ 1 letra _IO_cleanup_region_start(_fct,_fp)  __stub_sigreturn  __USE_XOPEN2K8XSI SEEK_SET 0 __intN_t(N,MODE) typedef int int ##N ##_t __attribute__ ((__mode__ (MODE))) __ATOMIC_CONSUME 1 __LDBL_REDIR1(name,proto,alias) name proto __clockid_t_defined 1 __flexarr [] __DECIMAL_DIG__ 21 _IO_putc_unlocked(_ch,_fp) (_IO_BE ((_fp)->_IO_write_ptr >= (_fp)->_IO_write_end, 0) ? __overflow (_fp, (unsigned char) (_ch)) : (unsigned char) (*(_fp)->_IO_write_ptr++ = (_ch))) __GNU_LIBRARY__ __DBL_MAX_10_EXP__ 308 __sigset_t_defined  _IO_va_list __gnuc_va_list _IO_off_t __off_t _IO_HEX 0100 _IO_save_end __off_t __ORDER_PDP_ENDIAN__ 3412 __DEC64_MAX_EXP__ 385 _IO_ftrylockfile(_fp)  __INT8_TYPE__ signed char WSTOPPED 2 __SIZE_TYPE__ long unsigned int __UINT8_C(c) c __INT16_TYPE__ short int linux 1 __INT_LEAST64_TYPE__ long int __LDBL_MAX__ 1.18973149535723176502e+4932L __WSTOPSIG(status) __WEXITSTATUS(status) inTDS _IO_write_base __attribute_noinline__ __attribute__ ((__noinline__)) __GCC_HAVE_SYNC_COMPARE_AND_SWAP_1 1 _IO_read_base __STDC_HOSTED__ 1 __STD_TYPE __suseconds_t_defined  __FLT_MIN__ 1.17549435082228750797e-38F __P(args) args __BIT_TYPES_DEFINED__ 1 _lock __SIZE_T__  __SIZE_MAX__ 18446744073709551615UL __need___va_list  __GNUC_GNU_INLINE__ 1 __OFF64_T_TYPE __SQUAD_TYPE __daddr_t_defined  _IO_funlockfile(_fp)  __need_wchar_t __LDBL_MANT_DIG__ 64 _XLOCALE_H 1 _IO_read_end _IO_ferror_unlocked(__fp) (((__fp)->_flags & _IO_ERR_SEEN) != 0) __ATOMIC_ACQ_REL 4 _IO_save_base WIFSTOPPED(status) __WIFSTOPPED (__WAIT_INT (status)) _IOS_APPEND 8 __SLONGWORD_TYPE long int __size_t  __FD_ISSET(d,set) ((__FDS_BITS (set)[__FD_ELT (d)] & __FD_MASK (d)) != 0) __ATOMIC_HLE_ACQUIRE 65536 __ULONG32_TYPE unsigned int __GLIBC_PREREQ(maj,min) ((__GLIBC__ << 16) + __GLIBC_MINOR__ >= ((maj) << 16) + (min)) __UID_T_TYPE __U32_TYPE __LITTLE_ENDIAN 1234 __REDIRECT(name,proto,alias) name proto __asm__ (__ASMNAME (#alias)) _T_SIZE  __DBL_MIN_10_EXP__ (-307) __ORDER_BIG_ENDIAN__ 4321 cont __DEC128_MIN__ 1E-6143DL _IO_flockfile(_fp)  BIG_ENDIAN __BIG_ENDIAN _chain __UINT_FAST32_MAX__ 18446744073709551615UL __USE_FILE_OFFSET64 _cur_column __USE_POSIX __SCHAR_MAX__ 127 __DEC32_EPSILON__ 1E-6DF NULL _SIGSET_H_types 1 __FD_SET(d,set) ((void) (__FDS_BITS (set)[__FD_ELT (d)] |= __FD_MASK (d))) _IO_IS_FILEBUF 0x2000 __INT16_MAX__ 32767 __INT_FAST8_MAX__ 127 __stub_fchflags  result __INTMAX_TYPE__ long int __FSFILCNT64_T_TYPE __UQUAD_TYPE __FLT_EPSILON__ 1.19209289550781250000e-7F w_coredump __wait_terminated.__w_coredump htole16(x) (x) __GNUC_PREREQ(maj,min) ((__GNUC__ << 16) + __GNUC_MINOR__ >= ((maj) << 16) + (min)) _T_WCHAR  __LDBL_HAS_QUIET_NAN__ 1 __USE_XOPEN2K8 _SYS_SIZE_T_H  __UINT_LEAST8_TYPE__ unsigned char __SIZEOF_PTHREAD_ATTR_T 56 __SUSECONDS_T_TYPE __SYSCALL_SLONG_TYPE __GLIBC__ 2 long int le16toh(x) (x) __UINT_LEAST64_MAX__ 18446744073709551615UL htobe16(x) __bswap_16 (x) __USE_XOPEN2K8 1 __CLOCKID_T_TYPE __S32_TYPE _IO_USER_BUF 1 __DEC128_MIN_EXP__ (-6142) _IO_DEC 020 __size_t__  __UINT_FAST64_TYPE__ long unsigned int __unix 1 __INT_LEAST8_TYPE__ signed char __SIZEOF_POINTER__ 8 __GCC_ATOMIC_BOOL_LOCK_FREE 2 __FD_SETSIZE 1024 _IO_marker __PDP_ENDIAN 3412 be64toh(x) __bswap_64 (x) main __int8_t_defined  FOPEN_MAX 16 _IO_stdin ((_IO_FILE*)(&_IO_2_1_stdin_)) __UINT_FAST32_TYPE__ long unsigned int __INT8_MAX__ 127 __FSBLKCNT64_T_TYPE __UQUAD_TYPE __attribute_warn_unused_result__ __attribute__ ((__warn_unused_result__)) _SIZE_T_DECLARED  __CONCAT(x,y) x ## y __WIFSTOPPED(status) (((status) & 0xff) == 0x7f) __FXSR__ 1 _POSIX_C_SOURCE 200809L __END_NAMESPACE_STD  __STDC_ISO_10646__ 201103L __SIZEOF_LONG__ 8 SEEK_CUR 1 __SIZEOF_DOUBLE__ 8 _IO_feof_unlocked(__fp) (((__fp)->_flags & _IO_EOF_SEEN) != 0) _STDC_PREDEF_H 1 __DBL_MIN__ ((double)2.22507385850720138309e-308L) GNU C 4.8.4 -mtune=generic -march=x86-64 -g3 -O0 -fmessage-length=0 -fstack-protector __DEC64_MAX__ 9.999999999999999E384DD __REDIRECT_NTH(name,proto,alias) name proto __asm__ (__ASMNAME (#alias)) __THROW __need_mbstate_t  EXIT_SUCCESS 0 __INO_T_TYPE __SYSCALL_ULONG_TYPE __FLT_MIN_10_EXP__ (-37) __FD_ELT(d) ((d) / __NFDBITS) __FLT_DECIMAL_DIG__ 9 signed char __bswap_16(x) (__extension__ ({ unsigned short int __v, __x = (unsigned short int) (x); if (__builtin_constant_p (__x)) __v = __bswap_constant_16 (__x); else __asm__ ("rorw $8, %w0" : "=r" (__v) : "0" (__x) : "cc"); __v; })) _IO_ERR_SEEN 0x20 WIFCONTINUED(status) __WIFCONTINUED (__WAIT_INT (status)) _BITS_BYTESWAP_H 1 __U16_TYPE unsigned short int _IO_FILE TMP_MAX 238328 __FLT_HAS_QUIET_NAN__ 1 __SYSCALL_SLONG_TYPE __SLONGWORD_TYPE __stub_revoke  __GNUC_PATCHLEVEL__ 4 __WCHAR_MAX__ 2147483647 __BLKCNT64_T_TYPE __SQUAD_TYPE _IO_va_list _IO_DONT_CLOSE 0100000 __u_char_defined  _BSD_SIZE_T_DEFINED_  ___int_size_t_h  _IO_OCT 040 __USE_ISOC99 1 __FLT_MAX_10_EXP__ 38 __PMT(args) args __DEC128_MAX_EXP__ 6145 _IO_IN_BACKUP 0x100 FD_SETSIZE __FD_SETSIZE __ATOMIC_SEQ_CST 5 __need_wint_t FD_CLR(fd,fdsetp) __FD_CLR (fd, fdsetp) __DBL_MAX_EXP__ 1024 __UINT32_C(c) c ## U caracter __pid_t_defined  __SSE2_MATH__ 1 __INTMAX_C(c) c ## L __LDBL_MAX_EXP__ 16384 __SIZEOF_SHORT__ 2 FD_ISSET(fd,fdsetp) __FD_ISSET (fd, fdsetp) __clockid_time_t __INT_LEAST32_MAX__ 2147483647 __INT64_C(c) c ## L __restrict_arr __restrict __GLIBC_MINOR__ 19 _SIZE_T_DEFINED_  __UINTMAX_C(c) c ## UL __DADDR_T_TYPE __S32_TYPE __USE_GNU __PRAGMA_REDEFINE_EXTNAME 1 char __FLT_MAX_EXP__ 128 __GCC_HAVE_SYNC_COMPARE_AND_SWAP_2 1 __need_wchar_t  __INT_FAST64_TYPE__ long int __GXX_ABI_VERSION 1002 __need_size_t  __OFF_T_TYPE __SYSCALL_SLONG_TYPE __KERNEL_STRICT_NAMES __BIGGEST_ALIGNMENT__ 16 isalpha __UINT_FAST64_MAX__ 18446744073709551615UL __fortify_function __extern_always_inline __attribute_artificial__ _IO_EOF_SEEN 0x10 w_termsig __wait_terminated.__w_termsig _IO_lock_t __DBL_EPSILON__ ((double)2.22044604925031308085e-16L) __USE_XOPEN2K __WNOTHREAD 0x20000000 __need_NULL  __stub_lchmod  _IO_SKIPWS 01 __extern_inline extern __inline __attribute__ ((__gnu_inline__)) __DBL_HAS_DENORM__ 1 BUFSIZ _IO_BUFSIZ __USE_POSIX199309 1 _IO_FLAGS2_NOTCANCEL 2 _IO_read_ptr __INT_LEAST16_MAX__ 32767 __USE_POSIX199309 __FD_ZERO(fdsp) do { int __d0, __d1; __asm__ __volatile__ ("cld; rep; " __FD_ZERO_STOS : "=c" (__d0), "=D" (__d1) : "a" (0), "0" (sizeof (fd_set) / sizeof (__fd_mask)), "1" (&__FDS_BITS (fdsp)[0]) : "memory"); } while (0) __W_CONTINUED 0xffff __INT_FAST16_MAX__ 9223372036854775807L _pos __FILE_defined 1 __USE_UNIX98 __INT_FAST8_TYPE__ signed char __KERNEL_STRICT_NAMES  __FDS_BITS(set) ((set)->__fds_bits) __GID_T_TYPE __U32_TYPE _IO_USER_LOCK 0x8000 __GCC_ATOMIC_SHORT_LOCK_FREE 2 __ULONGWORD_TYPE unsigned long int __need_timespec  __GCC_ATOMIC_TEST_AND_SET_TRUEVAL 1 _markers _unused2 __ELF__ 1 _VA_LIST_DEFINED  __WCHAR_MIN__ (-__WCHAR_MAX__ - 1) __need_time_t  FILENAME_MAX 4096 __SIZEOF_PTHREAD_CONDATTR_T 4 __LDBL_HAS_INFINITY__ 1 __stub_setlogin  _IO_SHOWBASE 0200 __INO_T_MATCHES_INO64_T 1 __clock_t_defined 1 _G_IO_IO_FILE_VERSION 0x20001 __GNUC_VA_LIST  w_retcode __wait_terminated.__w_retcode __SIG_ATOMIC_MIN__ (-__SIG_ATOMIC_MAX__ - 1) _BSD_WCHAR_T_  _IO_off64_t __off64_t RAND_MAX 2147483647 _STDIO_USES_IOSTREAM  __bswap_constant_32(x) ((((x) & 0xff000000) >> 24) | (((x) & 0x00ff0000) >> 8) | (((x) & 0x0000ff00) << 8) | (((x) & 0x000000ff) << 24)) __WORDSIZE_TIME64_COMPAT32 1 __need___FILE  _IO_BUFSIZ _G_BUFSIZ ____mbstate_t_defined 1 __UWORD_TYPE unsigned long int __DEC_EVAL_METHOD__ 2 __UINT_FAST8_MAX__ 255 htobe32(x) __bswap_32 (x) __bswap_constant_64(x) (__extension__ ((((x) & 0xff00000000000000ull) >> 56) | (((x) & 0x00ff000000000000ull) >> 40) | (((x) & 0x0000ff0000000000ull) >> 24) | (((x) & 0x000000ff00000000ull) >> 8) | (((x) & 0x00000000ff000000ull) << 8) | (((x) & 0x0000000000ff0000ull) << 24) | (((x) & 0x000000000000ff00ull) << 40) | (((x) & 0x00000000000000ffull) << 56))) __DEC64_SUBNORMAL_MIN__ 0.000000000000001E-383DD NULL ((void *)0) __PTHREAD_MUTEX_HAVE_ELISION 1 __stub_getmsg  __va_arg_pack() __builtin_va_arg_pack () __FLT_EVAL_METHOD__ 0 MB_CUR_MAX (__ctype_get_mb_cur_max ()) __INT32_MAX__ 2147483647 __need_FILE  _ATFILE_SOURCE _BSD_SOURCE 1 __SLONG32_TYPE int _IO_uid_t __uid_t be16toh(x) __bswap_16 (x) _IO_LEFT 02 __BLKCNT_T_TYPE __SYSCALL_SLONG_TYPE __ATOMIC_ACQUIRE 2 unsigned char _IO_NO_WRITES 8 __SYSCALL_WORDSIZE 64 __UINT_LEAST32_MAX__ 4294967295U __NFDBITS __lldiv_t_defined 1 NFDBITS __NFDBITS _G_config_h 1 _IO_RIGHT 04 __TIME_T_TYPE __SYSCALL_SLONG_TYPE __FLT_HAS_INFINITY__ 1 WUNTRACED 2 __STDC_IEC_559_COMPLEX__ 1 _IOS_ATEND 4 WEXITED 4 __FSBLKCNT_T_TYPE __SYSCALL_ULONG_TYPE __USE_BSD __GCC_HAVE_DWARF2_CFI_ASM 1 _BITS_TYPES_H 1 __SIZEOF_PTHREAD_MUTEXATTR_T 4 __GNUC__ 4 WTERMSIG(status) __WTERMSIG (__WAIT_INT (status)) _IO_FLAGS2_USER_WBUF 8 __PTRDIFF_TYPE__ long int __UINT16_TYPE__ short unsigned int _POSIX_SOURCE _IO_peekc_unlocked(_fp) (_IO_BE ((_fp)->_IO_read_ptr >= (_fp)->_IO_read_end, 0) && __underflow (_fp) == EOF ? EOF : *(unsigned char *) (_fp)->_IO_read_ptr) __USE_ISOC95 1 __DEC32_MAX_EXP__ 97 _T_SIZE_  stdin stdin _BITS_PTHREADTYPES_H 1 _IO_pid_t __pid_t _G_va_list __gnuc_va_list __USING_NAMESPACE_STD(name)  __k8__ 1 _LP64 1 __UINT8_MAX__ 255 __THROW __attribute__ ((__nothrow__ __LEAF)) P_PGID _FEATURES_H 1 _DEFAULT_SOURCE 1 /home/calosh/workspace/AnalizadorLexico/Debug WSTOPSIG(status) __WSTOPSIG (__WAIT_INT (status)) __dev_t_defined  __need_timer_t  __INT_MAX__ 2147483647 __LEAF , __leaf__ __SIZEOF_PTHREAD_MUTEX_T 40 __attribute_used__ __attribute__ ((__used__)) le32toh(x) (x) operadores __ID_T_TYPE __U32_TYPE __GCC_ATOMIC_CHAR16_T_LOCK_FREE 2 _BITS_TYPESIZES_H 1 __ATOMIC_RELEASE 3 __FLT_MANT_DIG__ 24 _POSIX_SOURCE 1 htobe64(x) __bswap_64 (x) __need_clock_t  __INT_FAST64_MAX__ 9223372036854775807L _IO_SHOWPOS 02000 _IO_file_flags _flags _IO_STDIO 040000 __stub_fdetach  __USE_POSIX_IMPLICITLY 1 getc(_fp) _IO_getc (_fp) _old_offset isSeparador __SSE__ 1 _IO_size_t size_t __GCC_HAVE_SYNC_COMPARE_AND_SWAP_8 1 __UINT64_MAX__ 18446744073709551615UL __OFF_T_MATCHES_OFF64_T 1 __FD_CLR(d,set) ((void) (__FDS_BITS (set)[__FD_ELT (d)] &= ~__FD_MASK (d))) _SYS_SELECT_H 1 _T_WCHAR_  __LDBL_REDIR1_NTH(name,proto,alias) name proto __THROW __USE_POSIX2 __FLT_HAS_DENORM__ 1 __DEC64_MIN__ 1E-383DD __GCC_ATOMIC_LONG_LOCK_FREE 2 __need_size_t w_stopsig __wait_stopped.__w_stopsig __INT_FAST32_MAX__ 9223372036854775807L _SIZE_T_  __LEAF_ATTR __attribute__ ((__leaf__)) _IO_LINE_BUF 0x200 __key_t_defined  long long int __WALL 0x40000000 __WINT_MAX__ 4294967295U __need_NULL __amd64__ 1 WNOHANG 1 __GCC_ATOMIC_LLONG_LOCK_FREE 2 __nonnull(params) __attribute__ ((__nonnull__ params)) __timespec_defined 1 __x86_64__ 1 __WCHAR_T  __UINT_LEAST64_TYPE__ long unsigned int SEEK_END 2 _STRUCT_TIMEVAL 1 simbolos __UINTMAX_TYPE__ long unsigned int _IO_write_end __CHAR_BIT__ 8 __attribute_format_arg__(x) __attribute__ ((__format_arg__ (x))) __SIZEOF_WCHAR_T__ 4 LITTLE_ENDIAN __LITTLE_ENDIAN __PMT __FLT_RADIX__ 2 _IO_IS_APPENDING 0x1000 isdigit w_stopval __wait_stopped.__w_stopval __PTHREAD_MUTEX_HAVE_PREV 1 __DBL_MAX__ ((double)1.79769313486231570815e+308L) __USE_POSIX199506 1 __WIFSIGNALED(status) (((signed char) (((status) & 0x7f) + 1) >> 1) > 0) _ATFILE_SOURCE 1 __SQUAD_TYPE long int L_ctermid 9 __BYTE_ORDER__ __ORDER_LITTLE_ENDIAN__ isOperador _IOS_NOCREATE 32 __WCHAR_TYPE__ int __USE_XOPEN2KXSI __UINTPTR_TYPE__ long unsigned int __USE_FORTIFY_LEVEL EOF (-1) __USER_LABEL_PREFIX__  __ptr_t void * __UINT_FAST16_MAX__ 18446744073709551615UL __WINT_TYPE__ unsigned int __k8 1 __LONG_MAX__ 9223372036854775807L __need_timeval  _IO_buf_base __DEC32_MAX__ 9.999999E96DF _flags2 _IO_MAGIC 0xFBAD0000 __WCOREDUMP(status) ((status) & __WCOREFLAG) __UINT_LEAST32_TYPE__ unsigned int unsigned int __have_pthread_attr_t 1 __INT_FAST32_TYPE__ long int __stub_putmsg  __FLT_MIN_EXP__ (-125) __USECONDS_T_TYPE __U32_TYPE concat __USE_MISC __USE_LARGEFILE __FLT_DIG__ 6 _WCHAR_T_DECLARED  __USE_XOPEN2K 1 __INTPTR_MAX__ 9223372036854775807L putc(_ch,_fp) _IO_putc (_ch, _fp) __KEY_T_TYPE __S32_TYPE __UINTMAX_MAX__ 18446744073709551615UL __pad1 __pad2 __pad3 __pad4 __pad5 __U32_TYPE unsigned int _sbuf __attribute_alloc_size__(params) __attribute__ ((__alloc_size__ params)) __DEC64_MIN_EXP__ (-382) _IO_BE(expr,res) __builtin_expect ((expr), res) alloca __glibc_likely(cond) __builtin_expect ((cond), 1) __stub_gtty  __WCHAR_T__  __SIZEOF_PTRDIFF_T__ 8 __FLOAT_WORD_ORDER__ __ORDER_LITTLE_ENDIAN__ _GCC_WCHAR_T  __SYSCALL_ULONG_TYPE __ULONGWORD_TYPE __STDC_IEC_559__ 1 __wur  __SIG_ATOMIC_TYPE__ int __SIZEOF_LONG_LONG__ 8 _IO_UPPERCASE 01000 __id_t_defined  __need_timeval __DEC128_MANT_DIG__ 34 _flags __nlink_t_defined  __GCC_ATOMIC_POINTER_LOCK_FREE 2 stderr stderr __GNU_LIBRARY__ 6 __VERSION__ "4.8.4" __GCC_ATOMIC_CHAR_LOCK_FREE 2 _mode __PID_T_TYPE __S32_TYPE __WTERMSIG(status) ((status) & 0x7f) __THROWNL __attribute__ ((__nothrow__)) __LDBL_REDIR(name,proto) name proto __WEXITSTATUS(status) (((status) & 0xff00) >> 8) __STRING(x) #x __INT_LEAST8_MAX__ 127 __UINT64_C(c) c ## UL _WCHAR_T  __DEC32_MANT_DIG__ 7 le64toh(x) (x) __BEGIN_NAMESPACE_STD  __LDBL_REDIR_DECL(name)  __SIZEOF_PTHREAD_BARRIER_T 32 __NTH(fct) __attribute__ ((__nothrow__ __LEAF)) fct __REDIRECT_NTH_LDBL(name,proto,alias) __REDIRECT_NTH (name, proto, alias) _SIZE_T  _WCHAR_T_H  _IO_NO_READS 4 __WAIT_STATUS_DEFN int * __PTHREAD_RWLOCK_INT_FLAGS_SHARED 1 ____FILE_defined 1 __ASMNAME(cname) __ASMNAME2 (__USER_LABEL_PREFIX__, cname) htole64(x) (x) _IO_UNBUFFERED 2 _IO_iconv_t _G_iconv_t _IO_HAVE_ST_BLKSIZE _G_HAVE_ST_BLKSIZE __LDBL_MAX_10_EXP__ 4932 __INT8_C(c) c _IO_UNIFIED_JUMPTABLES 1 __DBL_MIN_EXP__ (-1021) __SIZE_T  FILE _ENDIAN_H 1 __INT32_TYPE__ int __DEC64_MANT_DIG__ 16 __GCC_ATOMIC_CHAR32_T_LOCK_FREE 2 __FSID_T_TYPE struct { int __val[2]; } __USE_ISOC95 _IO_INTERNAL 010 __FLT_DENORM_MIN__ 1.40129846432481707092e-45F __USE_ISOC99 __USING_NAMESPACE_C99(name)  __USE_XOPEN_EXTENDED archivo __LDBL_HAS_DENORM__ 1 __always_inline __inline __attribute__ ((__always_inline__)) __GCC_HAVE_SYNC_COMPARE_AND_SWAP_4 1 __USE_SVID 1 __BEGIN_DECLS  __need_time_t _STDIO_H 1 WCONTINUED 8 _SIGSET_NWORDS (1024 / (8 * sizeof (unsigned long int))) __INT64_TYPE__ long int __FSFILCNT_T_TYPE __SYSCALL_ULONG_TYPE __ORDER_LITTLE_ENDIAN__ 1234 __BLKSIZE_T_TYPE __SYSCALL_SLONG_TYPE long long unsigned int _IO_ssize_t __ssize_t __WCOREFLAG 0x80 __USE_ISOCXX11 _SIZE_T_DEFINED  __ssize_t_defined  _SYS_SYSMACROS_H 1 __DEC128_SUBNORMAL_MIN__ 0.000000000000000000000000000000001E-6143DL __WCLONE 0x80000000 __INTPTR_TYPE__ long int long unsigned int __timer_t_defined 1 __need_mbstate_t __UINT_LEAST16_TYPE__ short unsigned int __WIFCONTINUED(status) ((status) == __W_CONTINUED) __CHAR16_TYPE__ short unsigned int _IO_peekc(_fp) _IO_peekc_unlocked (_fp) htole32(x) (x) P_PID __UINT_LEAST16_MAX__ 65535 __USE_POSIX199506 __BIG_ENDIAN 4321 __FINITE_MATH_ONLY__ 0 _BSD_SOURCE _STDLIB_H 1 _IO_fpos64_t _G_fpos64_t _IO_DELETE_DONT_CLOSE 0x40 __WORDSIZE 64 __warnattr(msg) __attribute__((__warning__ (msg))) _IO_cleanup_region_end(_Doit)  _WCHAR_T_DEFINED  __FLOAT_WORD_ORDER __BYTE_ORDER __SIZEOF_INT128__ 16 __stub_stty  __code_model_small__ 1 __off64_t __DEC32_SUBNORMAL_MIN__ 0.000001E-95DF __gnu_linux__ 1 _SVID_SOURCE 1 __SIZEOF_PTHREAD_BARRIERATTR_T 4 __S64_TYPE long int _IO_UNITBUF 020000 _BSD_SIZE_T_  __bos0(ptr) __builtin_object_size (ptr, 0) __USE_XOPEN _WCHAR_T_  _IO_FLAGS2_MMAP 1 _IO_BOOLALPHA 0200000 __BEGIN_NAMESPACE_C99  __INT_LEAST64_MAX__ 9223372036854775807L __S32_TYPE int WIFSIGNALED(status) __WIFSIGNALED (__WAIT_INT (status)) _IO_backup_base _shortbuf _IO_FIXED 010000 __INT_WCHAR_T_H  _STRING_H 1 FD_ZERO(fdsetp) __FD_ZERO (fdsetp) __USE_ATFILE 1 __USE_ISOC11 _IO_CURRENTLY_PUTTING 0x800 __FD_ZERO_STOS "stosq" _IONBF 2 __off_t_defined  _IO_BAD_SEEN 0x4000 _OLD_STDIO_MAGIC 0xFABC0000 P_tmpdir "/tmp" _next __LDBL_MIN__ 3.36210314311209350626e-4932L __INT_LEAST32_TYPE__ int __SSP__ 1 __LDBL_MIN_10_EXP__ (-4931) __GNUC_MINOR__ 8 __GCC_ATOMIC_INT_LOCK_FREE 2 __INT64_MAX__ 9223372036854775807L __stub_chflags  __NFDBITS (8 * (int) sizeof (__fd_mask)) __stub_bdflush  _SIZET_  minor(dev) gnu_dev_minor (dev) __TIMER_T_TYPE void * __DBL_HAS_QUIET_NAN__ 1 __uid_t_defined  major(dev) gnu_dev_major (dev) BYTE_ORDER __BYTE_ORDER __SSE2__ 1 __need_clock_t _IO_buf_end separadores __INT32_C(c) c __REDIRECT_LDBL(name,proto,alias) __REDIRECT (name, proto, alias) __extern_always_inline extern __always_inline __attribute__ ((__gnu_inline__)) __REGISTER_PREFIX__  _IO_LINKED 0x80 __DBL_DIG__ 15 __attribute_format_strfmon__(a,b) __attribute__ ((__format__ (__strfmon__, a, b))) __W_STOPCODE(sig) ((sig) << 8 | 0x7f) __SIZEOF_SIZE_T__ 8 _G_HAVE_MREMAP 1 FOPEN_MAX __END_DECLS  WNOWAIT 0x01000000 __DECIMAL_BID_FORMAT__ 1 P_ALL __ATOMIC_HLE_RELEASE 131072 __UINT_FAST8_TYPE__ unsigned char __UINT16_MAX__ 65535 __WAIT_INT(status) (__extension__ (((union { __typeof(status) __in; int __i; }) { .__in = (status) }).__i)) __UINT32_MAX__ 4294967295U __END_NAMESPACE_C99  __SSE_MATH__ 1 short int _SYS_CDEFS_H 1 WEXITSTATUS(status) __WEXITSTATUS (__WAIT_INT (status)) __UINT16_C(c) c __va_arg_pack_len() __builtin_va_arg_pack_len () __NO_INLINE__ 1 __blkcnt_t_defined  __need_clockid_t  __ATOMIC_RELAXED 0 __ASMNAME2(prefix,cname) __STRING (prefix) cname __blksize_t_defined  __UINTPTR_MAX__ 18446744073709551615UL __DBL_HAS_INFINITY__ 1 __UINT_FAST16_TYPE__ long unsigned int __INT_FAST16_TYPE__ long int __SIZEOF_PTHREAD_COND_T 48 _IO_wint_t wint_t __UQUAD_TYPE unsigned long int __SIZEOF_FLOAT__ 4 __SHRT_MAX__ 32767 _vtable_offset __DBL_DECIMAL_DIG__ 17 _SYS_TYPES_H 1 __REDIRECT_NTHNL(name,proto,alias) name proto __asm__ (__ASMNAME (#alias)) __THROWNL _IOS_INPUT 1 __NLINK_T_TYPE __SYSCALL_ULONG_TYPE __stub_fattach  _IOS_BIN 128 __attribute_malloc__ __attribute__ ((__malloc__)) __SWORD_TYPE long int __attribute_const__ __attribute__ ((__const__)) stdout stdout palabra __attribute_deprecated__ __attribute__ ((__deprecated__)) __need_timer_t _IOLBF 1 __USE_POSIX 1 __U64_TYPE unsigned long int __ENUM_IDTYPE_T 1 asize __DEC32_MIN__ 1E-95DF _G_HAVE_ST_BLKSIZE defined (_STATBUF_ST_BLKSIZE) __S16_TYPE short int __SIZEOF_WINT_T__ 4 __time_t_defined 1 estado __STDC__ 1 __x86_64 1 __SIZEOF_PTHREAD_RWLOCKATTR_T 8 __CHAR32_TYPE__ unsigned int _IO_SCIENTIFIC 04000 __attribute_artificial__ __attribute__ ((__artificial__)) _IO_MAGIC_MASK 0xFFFF0000 __DEC32_MIN_EXP__ (-94) __UINT64_TYPE__ long unsigned int _IO_getc_unlocked(_fp) (_IO_BE ((_fp)->_IO_read_ptr >= (_fp)->_IO_read_end, 0) ? __uflow (_fp) : *(unsigned char *) (_fp)->_IO_read_ptr++) __PTRDIFF_MAX__ 9223372036854775807L ___int_wchar_t_h  _IO_STDIO_H  PDP_ENDIAN __PDP_ENDIAN __SIZEOF_LONG_DOUBLE__ 16 _IO_stdout ((_IO_FILE*)(&_IO_2_1_stdout_)) __LDBL_REDIR_NTH(name,proto) name proto __THROW __CLOCK_T_TYPE __SYSCALL_SLONG_TYPE __RLIM_T_TYPE __SYSCALL_ULONG_TYPE __MMX__ 1 _IO_stderr ((_IO_FILE*)(&_IO_2_1_stderr_)) ../main.c _G_HAVE_MMAP 1 __ldiv_t_defined 1 __USE_SVID _DEFAULT_SOURCE _IO_SHOWPOINT 0400 _GCC_SIZE_T  _SVID_SOURCE __attribute_pure__ __attribute__ ((__pure__)) __u_intN_t(N,MODE) typedef unsigned int u_int ##N ##_t __attribute__ ((__mode__ (MODE))) __SIZEOF_INT__ 4 _BSD_WCHAR_T_ __FD_MASK(d) ((__fd_mask) 1 << ((d) % __NFDBITS)) __BYTE_ORDER __LITTLE_ENDIAN __need___FILE __DEV_T_TYPE __UQUAD_TYPE __USE_ATFILE _fileno __bos(ptr) __builtin_object_size (ptr, __USE_FORTIFY_LEVEL > 1) __LONG_LONG_PAIR(HI,LO) LO, HI __amd64 1 be32toh(x) __bswap_32 (x) __SIG_ATOMIC_MAX__ 2147483647 __USE_POSIX2 1 __unix__ 1 __RLIM64_T_TYPE __UQUAD_TYPE __W_EXITCODE(ret,sig) ((ret) << 8 | (sig)) __warndecl(name,msg) extern void name (void) __attribute__((__warning__ (msg))) __need_timespec __LDBL_DIG__ 18 __USE_BSD 1 __INO64_T_TYPE __UQUAD_TYPE __need_FILE __mode_t_defined  __WINT_MIN__ 0U __MODE_T_TYPE __U32_TYPE _IO_TIED_PUT_GET 0x400 __DEC64_EPSILON__ 1E-15DD _IO_fpos_t _G_fpos_t __long_double_t long double __INT_LEAST16_TYPE__ short int __LDBL_EPSILON__ 1.08420217248550443401e-19L __COMPAR_FN_T  unix 1 short unsigned int __wchar_t__  _ALLOCA_H 1 _IO_PENDING_OUTPUT_COUNT(_fp) ((_fp)->_IO_write_ptr - (_fp)->_IO_write_base) __USE_FORTIFY_LEVEL 0 __LDBL_MIN_EXP__ (-16381) __USE_MISC 1 __SSIZE_T_TYPE __SWORD_TYPE __need___va_list _IO_write_ptr __WIFEXITED(status) (__WTERMSIG(status) == 0) __stub_sstk  __USE_REENTRANT __gid_t_defined  __errordecl(name,msg) extern void name (void) __attribute__((__error__ (msg))) EXIT_FAILURE 1 _offset __FLT_MAX__ 3.40282346638528859812e+38F __FSWORD_T_TYPE __SYSCALL_SLONG_TYPE __malloc_and_calloc_defined  __UINT8_TYPE__ unsigned char __USE_LARGEFILE64 __INT16_C(c) c __STDC_NO_THREADS__ 1 __LDBL_DENORM_MIN__ 3.64519953188247460253e-4951L WIFEXITED(status) __WIFEXITED (__WAIT_INT (status)) __bswap_constant_16(x) ((unsigned short int) ((((x) >> 8) & 0xff) | (((x) & 0xff) << 8))) __linux 1 _WCHAR_T_DEFINED_  FD_SET(fd,fdsetp) __FD_SET (fd, fdsetp) alloca(size) __builtin_alloca (size) __UINT_LEAST8_MAX__ 255 __SIZEOF_PTHREAD_RWLOCK_T 56 _IOS_OUTPUT 2 _POSIX_C_SOURCE __DBL_MANT_DIG__ 53 __DBL_DENORM_MIN__ ((double)4.94065645841246544177e-324L) __glibc_unlikely(cond) __builtin_expect ((cond), 0) __INTMAX_MAX__ 9223372036854775807L __HAVE_COLUMN  __fsblkcnt_t_defined  _IO_va_list _G_va_list  GCC: (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4           zR x            g   A†Cb    <       i    A†Cd     \       i    A†Cd     |       i    A†Cd  $   œ       p    A†CEƒf        .symtab .strtab .shstrtab .rela.text .rela.data .bss .rela.rodata .rela.debug_info .debug_abbrev .rela.debug_aranges .rela.debug_macro .rela.debug_line .debug_str .comment .note.GNU-stack .rela.eh_frame .group                                                                      Ì                      @              §   >                 Ì                      H              §   ?                 Ì                      P              §   @                 Ì                      X              §   A                 Ì                      `              §   B                 Ì                      h              §   C                 Ì                      p              §   D                 Ì                      x              §   E                 Ì                      €              §   F                 Ì                      ˆ              §   G                 Ì                                    §   H                 Ì                      ˜              §   I                 Ì                                     §   J                 Ì                      ¨              §   K                 Ì                      °              §   L                 Ì                      ¸              §   M                 Ì                      À              §   N                 Ì                      È              §   O                 Ì                      Ğ              §   P                 Ì                      Ø              §   Q                 Ì                      à              §   R                 Ì                      è              §   S                 Ì                      ğ              §   T                 Ì                      ø              §   U                 Ì                                    §   V                 Ì                                   §   W                 Ì                                   §   X                 Ì                                   §   Y                 Ì                                    §   Z                 Ì                      (             §   [                 Ì                      0             §   \                 Ì                      8             §   ]                 Ì                      @             §   ^                 Ì                      H             §   _                 Ì                      P             §   `                 Ì                      X             §   a                 Ì                      `             §   b                 Ì                      h             §   c                 Ì                      p             §   d                 Ì                      x             §   e                 Ì                      €             §   f                 Ì                      ˆ             §   g                 Ì                                   §   h                 Ì                      ˜             §   i                 Ì                                    §   j                 Ì                      ¨             §   k                 Ì                      °             §   l                 Ì                      ¸             §   m                                       À                                                         HÇ      H	      §   1                 +                     à                                     &                      Ğ      ¸      §   3                 1                     à	                                    ;                     à	      ˜                             6                      HÓ      À       §   6                 H                      x      ¨                             C                      Ô      	      §   8                 T                             T                             g                      t      0                              b                      ˜İ      0       §   ;                 {                      ¤      M                             v                      Èİ      Ø      §   =                 {                     ñ      €                             v                       ä      ğ      §   ?                 {                     q      "                              v                      ú      x       §   A                 {                     “      ›                             v                      û      Ğ      §   C                 {                     .      o                             v                      Ø            §   E                 {                                                         v                      è     H       §   G                 {                     ³      5                              v                      0     ¨       §   I                 {                     è      X                              v                      Ø     P      §   K                 {                     @                                    v                      (     0       §   M                 {                     P      —                              v                      X     ø      §   O                 {                     ç      ^                              v                      P
+     h      §   Q                 {                     E      â                              v                      ¸     x      §   S                 {                     '       .                              v                      0     ¨       §   U                 {                     U                                     v                      Ø     H       §   W                 {                     k                                      v                            `       §   Y                 {                     ‹                                     v                      €     `       §   [                 {                     ©       (                              v                      à            §   ]                 {                     Ñ       X                              v                      p     P      §   _                 {                     )!                                    v                      À     0       §   a                 {                     9!      Â                             v                      ğ     x      §   c                 {                     û"      J                              v                      h           §   e                 {                     E#      (                              v                      p            §   g                 {                     m#      '                              v                            x       §   i                 {                     ”#                                    v                      x     H       §   k                 {                     ª#      —                              v                      À     ø      §   m                 {                     A$      R                              v                      ¸     8      §   o                 {                     “$      L                              v                      ğ            §   q                 {                     ß$                                    v                            `       §   s                 {                     û$      (                              v                      p             §   u                 {                     #%                                    v                       !     0       §   w                 {                     3%      L                              v                      0!            §   y                 {                     %      "                              v                      P"     x       §   {                 {                     ¡%      b                              v                      È"     h      §   }                 {                     &      g                              v                      0$     €      §                    {                     j&      :                              v                      °%     Ø       §                    {                     ¤&                                    v                      ˆ&     0       §   ƒ                 {                     ¶&                                     v                      ¸&     `       §   …                 {                     Ö&      "                              v                      '     x       §   ‡                 {                     ø&                                    v                      '     0       §   ‰                 {                     '                                    v                      À'     H       §   ‹                 {                     '      (                              v                      (            §                    {                     F'                                    v                      ˜(     0       §                    {                     V'      L                              v                      È(            §   ‘                 {                     ¢'                                    v                      è)     `       §   “                 {                     ¾'                                     v                      H*     `       §   •                 {                     Ş'      S                              v                      ¨*     8      §   —                 {                     1(                                    v                      à+     0       §   ™                 {                     A(                                    v                      ,     0       §   ›                 {                     Q(                                    v                      @,     H       §                                          g(      œ                             ˆ                      ˆ,            §   Ÿ                 ™      0               ,      T                            ¤      0               “€      *                             ­                      ½€                                     Â                     À€      À                              ½                       ,     x       §   ¤                                       €      Ó                                                    ˜¬      È      ¨   Ÿ                 	                      `½      ä	                                                         ñÿ                     1                      3                      5                      6                      8                      :                      ;                      =                      Ÿ                      ¡                      £                      ?                      A                      C                      E                      G                      I                      K                      M                      O                      Q                      S                      U                      W                      Y                      [                      ]                      _                      a                      c                      e                      g                      i                      k                      m                      o                      q                      s                      u                      w                      y                      {                      }                                                                  ƒ                      …                      ‡                      ‰                      ‹                                                                  ‘                      “                      •                      —                      ™                      ›                                            ¤                                       /                      d                      —                      Ç                      ù                      *                     \                     Œ    	                 ¾    
+                 î                     "                     R                     …                     ·                     ç                                          K                     |                     ¬                     Ü                                          A                     r                     ¤                     Ø                                          >                     o                     ¢                     Ó                                           9    !                 i    "                 ˜    #                 Ê    $                 û    %                 ,    &                 ]    '                     (                 ½    )                 ì    *                     +                 Q    ,                 ‚    -                 ¹    .                 ê    /                 	    0                      ¢                                                                                                                                                                                                      	                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           !                      "                      #                      $                      %                      &                      '                      (                      )                      *                      +                      ,                      -                      .                      /                      0                 L	   3         h       U	   3 €       @       a	   3 À       @       l	   5                q	   1         g      v	                     |	                     	                     ‡	                     	   1 Ğ      i       ›	   1 9      i       ¦	                     ­	   1 g      i       ³	   1 ¢      p       º	                     Á	                     È	                     Ï	                     Ö	                     İ	                      main.c wm4.0.7766608fd2b8de38f63af1762c2bb425 wm4.stdcpredef.h.19.13d357f53e03e35e37f3aa674f978c59 wm4.features.h.19.6a64ea47d1cc44cfc57d4e550ef9c824 wm4.cdefs.h.19.deed8300036fdf53f6654237d4653cad wm4.wordsize.h.4.256e8fdbd37801980286acdbc40d0280 wm4.cdefs.h.407.c122ddb2157a4c1fbd957332b50319ec wm4.stubs64.h.10.6fb4b470a4f113ab27ac07383b62200b wm4.stdio.h.31.e39a94e203ad4e1d978c0fc68ce016ee wm4.stddef.h.184.159df79b4ca79c76561572a55985524c wm4.types.h.89.468e2451361e3b92f048f6cad51690ff wm4.typesizes.h.24.c4a72432ea65bcf9f35838c785ffdcc8 wm4.stdio.h.36.2dd12c1fd035242ad5cfd0152a01be5a wm4._G_config.h.5.b0f37d9e474454cf6e459063458db32f wm4.stddef.h.234.5fa44232df77937e0d1fcac1468785aa wm4.wchar.h.80.628010d306c9ecbd260f9d4475ab1db1 wm4._G_config.h.46.5187c97b14fd664662cb32e6b94fc49e wm4.libio.h.33.a775b9ecae273f33bc59931e9891e4ca wm4.stdarg.h.34.3a23a216c0c293b3d2ea2e89281481e6 wm4.libio.h.51.981a9f406a7830caa4638ead01d5e3e6 wm4.stdio.h.80.2c0b67e94eb93fd8dd1cc22c150ce71c wm4.stdio_lim.h.23.557290a6cddeba0587f574f29e3a5fb9 wm4.stdio.h.172.df21df34a7396d7da2e08f9b617d582f wm4.stdlib.h.27.59e2586c75bdbcb991b248ad7257b993 wm4.stddef.h.234.6f23eed7302c690ea7fa44a242ca26d6 wm4.waitflags.h.25.e401b8bcfee800b540b27abd7cc78de9 wm4.waitstatus.h.28.93f167f49d64e2b9b99f98d1162a93bf wm4.endian.h.19.ff00c9c0f5e9f9a9719c5de76ace57b4 wm4.endian.h.41.24cced64aef71195a51d4daa8e4f4a95 wm4.byteswap.h.38.11ee5fdc0f6cc53a16c505b9233cecef wm4.endian.h.63.97272d7c64d5db8020003b32e9289502 wm4.waitstatus.h.99.408b6270fa6eb71377201a241ef15f79 wm4.stdlib.h.50.84aeca2ac6f37d40e1e9b3cef757ba2d wm4.types.h.23.9ed8c6dacea1f5e7143399c60517a0cc wm4.time.h.53.beb46e650cd406cb917b6b96b45e640a wm4.stddef.h.234.7b49b621169e2007451b8fadbcc644ca wm4.types.h.187.bd5a05039b505b3620e6973f1b2ffeb1 wm4.select.h.28.eb2f3debdbcffd1442ebddaebc4fb6ff wm4.sigset.h.20.f36413b6d2364ad847d3db53fb03e683 wm4.select.h.36.f76c3b9e55c871743863013cc4cc14c9 wm4.time.h.66.e70ce69790c975f0efb369340c432e0b wm4.time.h.25.72fdfa5826e4e33a45f01b6b43c97e79 wm4.select.h.49.5062e7117766526526e41607c5714bde wm4.sysmacros.h.20.8a0c33ff175cd9b434a86c0aaa36f0a2 wm4.types.h.229.67b3f66bd74b06b451caec392a72a945 wm4.pthreadtypes.h.25.62921d237d52f2c25e0d490888cb64e9 wm4.alloca.h.19.edefa922a76c1cbaaf1e416903ba2d1c wm4.alloca.h.29.156e12058824cc23d961c4d3b13031f6 wm4.string.h.23.8394011d5995a16f15d67d04e84a1d69 simbolos separadores operadores cont main fopen puts fgetc isalpha isSeparador isOperador printf inTDS concat fclose strcmp strlen malloc strcpy strcat                  _              
+      `              
+      b                 ¤   üÿÿÿÿÿÿÿ+       
+      p       0          ¥   üÿÿÿÿÿÿÿA          ¦   üÿÿÿÿÿÿÿe             X      …          §   üÿÿÿÿÿÿÿ£          ¨   üÿÿÿÿÿÿÿÂ          ©   üÿÿÿÿÿÿÿÕ       
+      ’       Ú          ¥   üÿÿÿÿÿÿÿ         ¨   üÿÿÿÿÿÿÿ0         ©   üÿÿÿÿÿÿÿB      
+      Ÿ       G         ¥   üÿÿÿÿÿÿÿt      
+      ¬       y         ¥   üÿÿÿÿÿÿÿ£         ¨   üÿÿÿÿÿÿÿµ      
+      ¹       ¿         ª   üÿÿÿÿÿÿÿÓ         §   üÿÿÿÿÿÿÿ         ¨   üÿÿÿÿÿÿÿ5         ©   üÿÿÿÿÿÿÿH      
+      Æ       M         ¥   üÿÿÿÿÿÿÿa         §   üÿÿÿÿÿÿÿ‡      
+      Ó       Œ         ¥   üÿÿÿÿÿÿÿµ         ¨   üÿÿÿÿÿÿÿÇ      
+      à       Ì         ¥   üÿÿÿÿÿÿÿÕ      
+      í       ß         ª   üÿÿÿÿÿÿÿ         ¢   üÿÿÿÿÿÿÿ         ¢   üÿÿÿÿÿÿÿ         ¢   üÿÿÿÿÿÿÿ%      
+      ó       /         ª   üÿÿÿÿÿÿÿ@         ©   üÿÿÿÿÿÿÿK         ¢   üÿÿÿÿÿÿÿT         ¢   üÿÿÿÿÿÿÿ]         ¢   üÿÿÿÿÿÿÿd      
+            n         ª   üÿÿÿÿÿÿÿv         ¢   üÿÿÿÿÿÿÿ         ¢   üÿÿÿÿÿÿÿˆ         ¢   üÿÿÿÿÿÿÿ      
+            ™         ª   üÿÿÿÿÿÿÿ´         «   üÿÿÿÿÿÿÿ¿         ¢   üÿÿÿÿÿÿÿÈ         ¢   üÿÿÿÿÿÿÿÎ         ¢   üÿÿÿÿÿÿÿÙ      
+      %      ã         ª   üÿÿÿÿÿÿÿë         ¢   üÿÿÿÿÿÿÿô         ¢   üÿÿÿÿÿÿÿú         ¢   üÿÿÿÿÿÿÿ      
+      ?               ª   üÿÿÿÿÿÿÿ          ©   üÿÿÿÿÿÿÿ+         ¢   üÿÿÿÿÿÿÿ4         ¢   üÿÿÿÿÿÿÿ=         ¢   üÿÿÿÿÿÿÿD      
+            N         ª   üÿÿÿÿÿÿÿa         ¨   üÿÿÿÿÿÿÿt         ¢   üÿÿÿÿÿÿÿ}         ¢   üÿÿÿÿÿÿÿ†         ¢   üÿÿÿÿÿÿÿ      
+            —         ª   üÿÿÿÿÿÿÿ»         ¢   üÿÿÿÿÿÿÿÄ         ¢   üÿÿÿÿÿÿÿÍ         ¢   üÿÿÿÿÿÿÿÔ      
+            Ş         ª   üÿÿÿÿÿÿÿê         ¢   üÿÿÿÿÿÿÿó         ¢   üÿÿÿÿÿÿÿü         ¢   üÿÿÿÿÿÿÿ      
+                     ª   üÿÿÿÿÿÿÿ            _       1         ¬   üÿÿÿÿÿÿÿA         ¦   üÿÿÿÿÿÿÿ\         ­   üÿÿÿÿÿÿÿŸ         Ÿ           ®         ®   üÿÿÿÿÿÿÿ                              ®   üÿÿÿÿÿÿÿq         ¡           €         ®   üÿÿÿÿÿÿÿ»         ¯   üÿÿÿÿÿÿÿÊ         ¯   üÿÿÿÿÿÿÿÙ         °   üÿÿÿÿÿÿÿğ         ±   üÿÿÿÿÿÿÿ         ²   üÿÿÿÿÿÿÿ                                                                                                       (                    0                    8             "       @             &       H             -       P             4       X             8       `             ;       €             ?       ˆ             A                    C       ˜             E                     G       ¨             I       °             K       ¸             M       À             O       È             Q       Ğ             S       Ø             U       à             W       è             Y       ğ             [       ø             ]       X            k       `            è       h            \      p            ‚      x            Ô      €            Í      ˆ            [                  ”             
+                     
+      w             
+      tK             
+      Ó%                           )       
+   
+           -       
+   	           2       
+      Æ       ?       
+      n:      F       
+      ó!      M       
+      ÀO      T       
+      l/      [       
+      Ô      b       
+      D      p       
+            u       
+      ô      €       
+      Î<             
+      Ş       œ       
+      µ      ¡       
+      ì6      ¬       
+      >      ¸       
+      ú2      Ä       
+      j      Ğ       
+      ÿ      Ü       
+      š      è       
+      0      ô       
+      £P             
+      ¿+            
+      Ö.            
+      ;A      '      
+      `      4      
+      e>      A      
+      ç      N      
+      ß      [      
+      §	      h      
+      M      u      
+      ÿ.      ‚      
+      2(            
+      í	      œ      
+      !F      ©      
+      u>      ¶      
+      +      Ã      
+      kQ      Ğ      
+      É0      İ      
+      Ğ0      ê      
+      ×0      ÷      
+      Ş0            
+      å0            
+      ‡3            
+      è      ,      
+      G      3      
+      ñ      ?      
+      y?      K      
+      1      W      
+      ¾      ˜      
+      p*      Ÿ      
+      x9      ¤      
+      (      ®                    Å      
+      û7      Ó      
+      F      á      
+      G      ï            9              
+      ŸH                  k       #      
+      ~,      4      
+      —      E      
+      >(      V      
+      ±-      d            	      y      
+      ±-      ‡            §      ˜      
+      *      ©      
+      ±-      º            T      Ë      
+      >(      â      
+      *      ì            g            
+      G            
+      H      +      
+      ã
+      :      
+      >(      D            Ğ      [      
+      ¥      u      
+      H      ƒ      
+      ã
+      ’      
+      ±-      œ            9      ³      
+      ¥      Í      
+      H      Û      
+      ã
+      ê      
+      ñ/      ô            ¢      %      
+      ã
+      D      
+      “+      P         Ÿ           i      
+      GA      u                     ~      
+      Ö&      Š         ¡           “      
+      ]	      Ÿ         ¢                  
+                                          
+   
+                  
+                     
+                     
+      ¥8      %       
+              .       
+              7       
+              =       
+              J       
+              R       
+              Z       
+              d       
+      X#      l       
+              r       
+              z       
+              ‚       
+      º      ˆ       
+              ‘       
+      ^J      ™       
+              ¡       
+              ¨       
+      D      °       
+              ¶       
+              ¼       
+              Ä       
+              Ê       
+              Ğ       
+               Ù       
+   !           ß       
+   "           í       
+   #           õ       
+   $           ü       
+      Ã;            
+   %                 
+   &                 
+   '                 
+      ÀL      $      
+   (           -      
+            5      
+              <      
+      —R      E      
+      à      K      
+   )           Q      
+   *           W      
+   +           ]      
+   ,           f      
+   -           o      
+   .           w      
+      7      €      
+   /           †      
+   0                 
+      )      ›      
+              ¡      
+   1           ª      
+   2           °      
+   3           ¸      
+   4           ¿      
+      Æ.      Ç      
+   5           Í      
+   6           ×      
+   7           İ      
+   8           ç      
+      ü$      ï      
+              õ      
+   9           ş      
+      ÀQ            
+   :                 
+   /                 
+   ;                 
+      ªO      )      
+            2      
+   <           :      
+              E      
+      ò             
+      ¦H             
+      ¨             
+      ‡#             
+      é?             
+      £      #       
+      U3      )       
+      ÔD      /       
+      Ó      5       
+      à!      ;       
+      .'      A       
+      M      G       
+      J      M       
+       ;      S       
+      e%      Y       
+      š      _       
+      oL      e       
+      Ã      k       
+      ™2      q       
+      œ      w       
+      ûE      }       
+      à      ƒ       
+      ƒJ      ‰       
+       B             
+      Í+      •       
+      ~      ›       
+      59      ¡       
+      C	      §       
+      ü      ­       
+      Š-      ³       
+      2      ¹       
+      ¬      ¿       
+      h      Å       
+      Û#      Ë       
+      Í-      Ñ       
+      ‚.      ×       
+      ê
+      İ       
+      œ+      ã       
+      ;      é       
+      ÜH      ï       
+      2      õ       
+      C      û       
+      —            
+      ı6            
+      ö8            
+      İQ            
+      õ#            
+      ˆ             
+      zI      %      
+      Œ      +      
+      ^O      1      
+      ª?      7      
+      ¸      =      
+            C      
+      ¥:      I      
+      I/      O      
+      N+      U      
+      á      [      
+      ’E      a      
+      ‘/      g      
+            m      
+      *C      s      
+      kE      y      
+      u            
+      \      …      
+      U:      ‹      
+      ñ-      ‘      
+             —      
+      
+            
+      F      £      
+      T&      ©      
+      ¤.      ¯      
+      ç       µ      
+      ¹      »      
+            Á      
+      *      Ç      
+      ÓN      Í      
+      'J      Ó      
+      =      Ù      
+      0T      ß      
+      p      å      
+      ¢0      ë      
+      ^      ñ      
+      M      ÷      
+      .      ı      
+      œ            
+      ¨
+      	      
+      -!            
+      @            
+      m%            
+      LC      !      
+      ÍC      '      
+      ‹(      -      
+      V4      3      
+      £6      9      
+      w      ?      
+      R      E      
+      ì      K      
+      SA      Q      
+      õ=      W      
+            ]      
+      [S      c      
+      ˆ      i      
+      a;      o      
+      ]D      u      
+      '"      {      
+      1            
+      §      ‡      
+      m4            
+      ¼
+      “      
+      –      ™      
+      ó)      Ÿ      
+      '      ¥      
+      Á      «      
+      W.      ±      
+      ®	      ·      
+      Ÿ      ½      
+      D0      Ã      
+      -E      É      
+      ğ       Ï      
+      «      Õ      
+      V,      Û      
+      A'      á      
+      0      ç      
+      ½/      í      
+      ‡      ó      
+      º      ù      
+      h      ÿ      
+      ¾            
+      sQ            
+      Ü            
+      $            
+      7            
+      v)      #      
+      ¶"      )      
+      V      /      
+      ®S      5      
+      B      ;      
+      Ê6      A      
+      )	      G      
+            M      
+      ‚      S      
+      0F      Y      
+      Ç,      _      
+      D      e      
+      R      k      
+      ÂS      q      
+            w      
+      TE      }      
+      Á@      ƒ      
+      İ      ‰      
+      }N            
+      OP      •      
+      Í?      ›      
+      …      ¡      
+      Š6      §      
+      «      ­      
+      Ö      ³      
+      ?      ¹      
+      }O      ¿      
+      1R      Å      
+      8      Ë      
+      o      Ñ      
+      æ      ×      
+      4      İ      
+      bI      ã      
+      Ñ$      é      
+      H      ï      
+      ã.      õ      
+      
+      û      
+      Ø<            
+      7            
+      S1            
+                  
+      ‹)            
+      Í            
+      O      %      
+      W       +      
+      ã2      1      
+      )      7      
+            =      
+      b	      C      
+      4      I      
+      P       O      
+      ü9      U      
+      óA      [      
+      1.      a      
+      s      g      
+      D      m      
+      u      s      
+      Î      y      
+      V8            
+      f(      …      
+      Á      ‹      
+      i3      ‘      
+      ø&      —      
+      &7            
+      ¥       £      
+      h      ©      
+      ú?      ¯      
+      ¢)      µ      
+      Ë*      »      
+      »      Á      
+      3      Ç      
+      <#      Í      
+      ™      Ó      
+      Ã?      Ù      
+      •<      ß      
+      ,      å      
+      xH      ë      
+      ï1      ñ      
+      yM      ÷      
+      µ*      ı      
+      ±H            
+      6+      	      
+                   
+      C            
+      .            
+      \%      !      
+      ·<      '      
+      ?K      -      
+      J(      3      
+      !A      9      
+      p      ?      
+      ıC      E      
+      `      K      
+      ÿ<      Q      
+      ñR      W      
+      	       ]      
+      °      c      
+      ƒ      i      
+      ÊM      o      
+      ¹O      u      
+      ñ      {      
+      ïB             
+      3             
+      g2             
+      Ù"             
+      ¨             
+      R             
+      ³%             
+      ß>             
+      ¼7             
+      o7             
+      ¶9      #       
+      ù	      )       
+      i)      /       
+      ‘      5       
+      |;      ;       
+      Ÿ=      A       
+      æ7      G       
+      Ô      M       
+      ˆ      S       
+      à-      Y       
+      ÿ      _       
+      á      e       
+      0      k       
+      úQ      q       
+      Ù	      w       
+      2#      }       
+       K      ƒ       
+      ø/      ‰       
+      M             
+            •       
+      ìP      ›       
+      .      ¡       
+      h      ¨       
+             ¯       
+      ˆ      ¶       
+      «K      ½       
+      Á%      Ä       
+      ·;      Ë       
+      b!      Ò       
+      ÛK      Ù       
+      =      à       
+       (      ç       
+      $      î       
+      U'      õ       
+      S      ü       
+      {            
+      ÙG      
+      
+      »M            
+      ?            
+      ú,            
+      40      &      
+      o7      -      
+      Â$      4      
+      ¼7      ;      
+      Y      B      
+      í      I      
+      S!      P      
+      W-      W      
+      iP      ^      
+      N      e      
+      {8      l      
+      Ğ>      s      
+      9P      z      
+      r            
+      C3      ˆ      
+      ƒ            
+      9      –      
+      W             
+      D             
+      P,             
+      k&             
+      %*      #       
+      %      )       
+      Ê3      /       
+      ÿ4      5       
+            ;       
+      ~      A       
+      *      G       
+      G4      M       
+      H.      S       
+      BO      Y       
+      ˆ8      _       
+      ÏB      e       
+      ±4      k       
+      “      q       
+      ?%      w       
+      Ş=      }       
+      èC      ƒ       
+      É7      Š       
+      M      ‘       
+      t=      ˜       
+      Ê      Ÿ       
+      N      ¦       
+      <      ­       
+      Q      ´       
+            »       
+      Û      Â       
+      ó      É       
+      VF      Ğ       
+      ñ5      ×       
+      çD      Ş       
+      ùF      å       
+      
+1      ì       
+      èK      ó       
+      AG      ú       
+      ™&            
+      ?            
+      ‡G            
+      Ü+            
+      'B            
+      ê*      $      
+      Î      +      
+      z2      2      
+      8      9      
+      I      @      
+      ×      G      
+      ¤A      N      
+      Ç       U      
+      mD      \      
+            c      
+      üS      j      
+      £1             
+      <             
+      3             
+      "             
+      ]             
+      ò3             
+      2)             
+      ÈJ      "       
+      È4      )       
+      bA      0       
+      35             
+      s@             
+      :@             
+      ÜF             
+      Ò
+             
+      ğ'      #       
+      ¸       )       
+      Õ1      /       
+      º      5       
+      ®/      ;       
+      ”      A       
+      ‡      G       
+      Ï      M       
+      ßP      S       
+      ª<             
+      7             
+      ­             
+      P             
+      1             
+      }5             
+            "       
+      æ$      )       
+       	      0       
+      â6      7       
+      *      >       
+      f=      E       
+      L      L       
+      Å9      S       
+      &      Z       
+            a       
+      <      h       
+      ÎK      o       
+      ƒ@      v       
+      Ì      }       
+      À)      „       
+      0
+      ‹       
+      ˆ       ’       
+      ©*             
+      cH             
+                    
+      >             
+      ì0             
+      ²      #       
+      ‡      )       
+      h-      /       
+      ÜE      5       
+      +G      ;       
+      Œ      A       
+      p!      G       
+      ;      M       
+      ?=      S       
+      çG      Y       
+                    
+      '             
+      n             
+      A2             
+      ëL             
+      ®      #       
+      ;      )       
+      e      /       
+      ™N      5       
+      ãN      ;       
+      ¸F      A       
+      ›Q      G       
+      F      M       
+      ‰      S       
+      3      Y       
+      K      _       
+      ÕM      e       
+      »!      k       
+      Ò      q       
+      #      w       
+      ­      }       
+      9      ƒ       
+            ‰       
+      á&             
+      øJ      •       
+      “"      ›       
+      Ô/      ¡       
+      [      §       
+      u      ­       
+      Š0      ³       
+      ş      ¹       
+      «@      ¿       
+      R9      Å       
+      H7      Ë       
+      vP      Ñ       
+      ±(      ×       
+      ª      İ       
+      ß             
+      F!             
+      P             
+      Ã             
+      µN             
+      Ş5      #       
+      İL      )       
+      ”             
+      x"             
+      7             
+      ­             
+      À)             
+      0
+             
+      ˆ              
+      ©*             
+      t             
+      ”:             
+      ”:             
+      æ             
+      %%             
+      ~K             
+      ´B             
+      Ø             
+      2H      #       
+      y              
+      -O             
+      Ï;             
+      T(             
+      9             
+      È      #       
+      j      )       
+      %      /       
+      ƒ!      5       
+      L6      ;       
+      c6      A       
+      _      G       
+      yT      M       
+      ÊE      S       
+      a             
+      ’P             
+      ö             
+      ñ             
+      ­             
+      ±6             
+      (.             
+      «F      #       
+      S      )       
+      ô"      /       
+      ¤      5       
+      k       ;       
+      ¼-      A       
+      >       G       
+      ìF      M       
+      /      S       
+      M?      Y       
+      HI      _       
+            e       
+      ;6      k       
+      ’5      q       
+      "      w       
+            }       
+      Á      ƒ       
+      è;      ‰       
+      B             
+      §      •       
+      L*      ›       
+      üN      ¡       
+      ì>      §       
+      f,      ­       
+      ’
+      ³       
+      9?      ¹       
+      S      ¿       
+      ¶=      Å       
+      S      Ë       
+      Ä#      Ñ       
+      É      ×       
+      ¯!      İ       
+      †"      ä       
+      |7      ë       
+      D      ò       
+      M      ù       
+      Ú             
+      ˜            
+      »K            
+      °2            
+      ·'            
+      ùH      #      
+      >      *      
+      S=      1      
+      ß'      8      
+      ı      ?      
+      È=      F      
+      É'      M      
+      TT      T      
+      L      [      
+      J      b      
+      IK      i      
+      l1      p      
+      œI      w      
+      &$      ~      
+      ¾      …      
+      ô      Œ      
+            “      
+      ìO      š      
+      $;      ¡      
+      {	      ¨      
+      ¸      ¯      
+      ,      ¶      
+      «      ½      
+      D<             
+      û             
+      (?             
+      Ö9             
+                     
+      ĞG      #       
+      ?      )       
+      -      0       
+      ó      7       
+      Õ      >       
+      v+      E       
+      i?             
+                   
+      G             
+      ?             
+      ~-             
+      ÅB      #       
+      ?             
+      ğ$             
+      qG             
+      53             
+      (      "       
+      h0             
+      7             
+      ó             
+      ­             
+      À)             
+      ÓO             
+      â1             
+      ƒ4      "       
+      ')      )       
+      Ü      0       
+      C+      7       
+      «=      >       
+      [      E       
+      ûR      L       
+      c<      S       
+      †5      Z       
+      LJ      a       
+      >      h       
+      32      o       
+      !0      v       
+      €L      }       
+      Î      „       
+      0
+      ‹       
+      ˆ       ’       
+      ©*             
+      Á*             
+      Í"             
+      ]             
+      #             
+      °8      #       
+      ÜB      )       
+      –      /       
+      ~*      5       
+      A:      ;       
+      H      A       
+      C      G       
+      [;      M       
+      ¬%             
+      4             
+      ¥3             
+                   
+      ±P             
+      -      #       
+      ?      )       
+      Î:      /       
+      /      5       
+      òM      ;       
+      zB      A       
+            G       
+      ¥9             
+      ñ6             
+      Æ             
+      ;             
+      ü             
+      u<             
+      2,             
+      	             
+      kJ             
+      	A      #       
+      ZM             
+      ª             
+      ò             
+      Ó             
+      y             
+      •!             
+      ˜             
+      Ø      #       
+      L;      )       
+      ƒM      /       
+      Ç&      5       
+      e'      ;       
+      ,6      A       
+            G       
+      ¢4             
+                   
+      O             
+                   
+      Î)             
+      †,             
+      aC             
+      ¡5             
+      %D             
+      ’#             
+      &      #       
+      cR      )       
+      ->      /       
+      n      5       
+      Ó      ;       
+      K      A       
+      R"      H       
+      €      O       
+      \Q      V       
+      V      ]       
+      !             
+      GF             
+                   
+      Í              
+      3&             
+      üP      #       
+      ÁN      )       
+      3      /       
+      Ù@      5       
+      O      ;       
+      Ä2      A       
+      ¥      G       
+      _*      M       
+      '      T       
+      0      [       
+      D&      b       
+      ÂD             
+      Ä             
+      ,A             
+      ŒH             
+      —8             
+      ˆ      #       
+      Û      )       
+      €:      /       
+      ÁG      5       
+      mN             
+      À)             
+      ©*             
+      ş             
+      L             
+      -             
+                   
+      ?             
+      £             
+      G
+             
+      Ë(             
+      Ö             
+      5
+             
+      ½8             
+      ™             
+      0             
+      ª             
+      ,A             
+      —8             
+      Û             
+      ÁG             
+      !+      #       
+      mN             
+      +             
+      Ô2             
+      Å             
+      H"             
+      J@             
+                    
+      L      #       
+            )       
+      »      /       
+      f"      5       
+      S      ;       
+      ô      A       
+      ¯      G       
+      ­>             
+      é9             
+      ê@             
+      Œ@             
+      n             
+      E             
+      ®D             
+      cT             
+      (              
+      @             
+      }&             
+      h#             
+      ¯E             
+      Q      #       
+      sS      )       
+      ¼H      /       
+      á4      5       
+      =      ;       
+      y/      A       
+      «,      G       
+      ™       N       
+      º5             
+      àO             
+      7             
+      œ1             
+      6S             
+      ¡>             
+      7             
+      ­      ©                                          @             g      `             Ğ      €             9                    ¢      

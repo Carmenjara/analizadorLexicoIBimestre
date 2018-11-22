@@ -1,0 +1,9 @@
+Inicio;
+entero a;
+entero b=3;
+0,55;
+555;
+entero Suma_=a+b;
+or;
+( ) ;
+Fin;
